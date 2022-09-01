@@ -1,4 +1,4 @@
-# NextJS micro-frontend example :
+# NextJS micro-frontend example
 # [Let’s build micro-frontend with React and Next.js](https://blog.logrocket.com/micro-frontend-react-next-js)
 
 ## How to run:
