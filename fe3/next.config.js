@@ -9,8 +9,8 @@ const nextConfig = {
         name:"fe3",
         filename: './consumerFile.js',
         remotes: {
-            fe1: 'fe1@http:localhost:8888/remoteEntry.js',
-            fe2: 'fe2@http:localhost:8889/remoteEntry2.js',
+            fe1: 'fe1@http://localhost:8888/remoteEntry.js',
+            fe2: 'fe2@http:localhost:8888/remoteEntry2.js',
         },
         shared: [
           {
